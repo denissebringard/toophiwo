@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://theigegiej.rebagliatte.com/sitemap.xml
